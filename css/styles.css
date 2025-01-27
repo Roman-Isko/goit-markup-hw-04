@@ -290,6 +290,7 @@ img {
     letter-spacing: 0.02em;
     color: #434455;
     text-align: center;
+    margin-bottom: 8px;
 }
 
 .team-soc-list {
@@ -301,7 +302,6 @@ img {
 .team-soc-item {
     width: 40px;
     height: 40px;
-    margin: 0 auto;
 }
 
 .team-soc-link {
@@ -466,7 +466,6 @@ img {
 .soc-list {
     display: flex;
     gap: 16px;
-    display: flex;
 }
 
 .soc-item {
